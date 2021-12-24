@@ -1,3 +1,3 @@
 # jitu sucks
 
-![Jitu](jitu.jpg)
+![](jitu.jpg)
